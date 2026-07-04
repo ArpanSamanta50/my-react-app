@@ -1,0 +1,13 @@
+.my-player{
+    color: aqua;
+    font-family: sans-serif, monospace;
+    padding: 10px;
+    background: #827a7a;
+    
+}
+
+#refsAndPortal{
+    border: 2px dashed gray;
+    padding: 2px;
+    text-align: center;
+}
