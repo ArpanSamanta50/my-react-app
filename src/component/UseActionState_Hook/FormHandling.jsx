@@ -29,6 +29,7 @@ function FormHandling() {
             <input type="password" placeholder="enter password" name="password" />
 
             <br />
+            <p>Click on this button to save</p>
 
             <button>Submit</button>
         </form>
